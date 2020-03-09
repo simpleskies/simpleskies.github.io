@@ -1,5 +1,3 @@
-# http://simpleskies.github.io
-FBLA 2020 Project
 <!DOCTYPE html>
 <html lang="en">
   <head>
